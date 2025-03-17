@@ -11,6 +11,13 @@ El proyecto está compuesto por varias páginas HTML con su respectivo diseño e
 - **`adopt.html`** → Listado de mascotas disponibles para adopción.
 - **`services.html`** → Información sobre servicios como veterinaria, peluquería y tienda.
 
+
+![Inicio](documentacion/Index.png)
+![Sobre Nosotros](documentacion/about.png)
+![Servicios](documentacion/Servicios.png)
+![Mascotas](documentacion/Mascotas.png)
+
+
 ## Tecnologías Utilizadas
 
 - **HTML5**
@@ -35,6 +42,9 @@ El diseño de la web está basado en tonos morados y grises, ofreciendo una est�
 | Morado claro | `#9B30FF` |
 | Gris oscuro  | `#2D2D2D` |
 | Gris claro   | `#A9A9A9` |
+
+![](guiaEstilos.png)
+
 
 ### ✨ Características del diseño:  
 - **Minimalista y accesible**, con botones llamativos para mejorar la navegación.  
